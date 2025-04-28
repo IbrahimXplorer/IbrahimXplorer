@@ -71,8 +71,8 @@
 ###
 
 #### What are my recent highlights?
-- [featured-article-on-2d-web-games-on-twitter-wasm-weekly](https://twitter.com/WasmWeekly/status/1560266404171231232)
-- [Tweetify-simple-crud-tweet-app-using-VanilaJs](https://github.com/IbrahiimKhan/tweet-tweet)
+<!-- - [Shadow Ui](https://twitter.com/WasmWeekly/status/1560266404171231232)
+- [Tweetify-simple-crud-tweet-app-using-VanilaJs](https://github.com/IbrahiimKhan/tweet-tweet) -->
 
 #### How to get in touch with me?
 
